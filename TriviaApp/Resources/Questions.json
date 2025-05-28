@@ -1,0 +1,123 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In the video game &quot;League of Legends&quot; which character is known as &quot;The Sinister Blade&quot;?",
+      "correct_answer": "Katarina",
+      "incorrect_answers": [
+        "Shaco",
+        "Akali",
+        "Zed"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "What year was the Disney film &quot;A Goofy Movie&quot; released?",
+      "correct_answer": "1995",
+      "incorrect_answers": [
+        "1999",
+        "2001",
+        "1997"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "What is the last name of the primary female protagonist of Final Fantasy VIII?",
+      "correct_answer": "Heartilly",
+      "incorrect_answers": [
+        "Loire",
+        "Almasy",
+        "Trepe"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "Nova Scotia is on the east coast of Canada.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "The original mascot of the popular Nintendo game, &quot;Splatoon&quot; was going to be...",
+      "correct_answer": "Mario",
+      "incorrect_answers": [
+        "Inklings",
+        "Octolings",
+        "Zelda"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "When Gmail first launched, how much storage did it provide for your email?",
+      "correct_answer": "1GB",
+      "incorrect_answers": [
+        "512MB",
+        "5GB",
+        "Unlimited"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In the game &quot;Overwatch,&quot; what are the names of the two Australian criminals from the Junkers faction?",
+      "correct_answer": "Junkrat and Roadhog",
+      "incorrect_answers": [
+        "Roadrat and Junkhog",
+        "Ana and Pharah",
+        "McCree and Deadeye"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Which animation studio animated &quot;Hidamari Sketch&quot;?",
+      "correct_answer": "Shaft",
+      "incorrect_answers": [
+        "Trigger",
+        "Kyoto Animation",
+        "Production I.G"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Animals",
+      "question": "By definition, where does an abyssopelagic animal live?",
+      "correct_answer": "At the bottom of the ocean",
+      "incorrect_answers": [
+        "In the desert",
+        "On top of a mountain",
+        "Inside a tree"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "Which of these is NOT a faction included in the game Counter-Strike: Global Offensive?",
+      "correct_answer": "BOPE",
+      "incorrect_answers": [
+        "GSG-9",
+        "Elite Crew",
+        "Phoenix Connexion"
+      ]
+    }
+  ]
+}
